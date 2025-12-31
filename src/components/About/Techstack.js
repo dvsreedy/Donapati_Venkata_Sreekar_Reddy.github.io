@@ -7,7 +7,7 @@ import {
 import {
   SiPostgresql,
   SiDocker,
-  SiK8s,
+  SiKubernetes,
 } from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
 
@@ -30,7 +30,7 @@ function Techstack() {
         <SiDocker />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiK8s />
+        <SiKubernetes />
       </Col>
     </Row>
   );
