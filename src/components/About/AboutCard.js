@@ -8,13 +8,12 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Donapati Venkata Sreekar Reddy </span>
+            Hi Everyone, I am <span className="purple"> Sreekar </span>
             from <span className="purple"> Bengaluru, India.</span>
             <br />
-            I am currently employed as a software developer at Hewlett Packard Enterprise.
+            I am currently employed as a senior software developer at Impact Analytics.
             <br />
             I have completed Engineering in Computer Science at JSSTU Mysuru.
-            Mesra.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
